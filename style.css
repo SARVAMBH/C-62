@@ -1,0 +1,32 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background:linear-gradient(yellow 20%,salmon 80%);
+    ;
+    color: darkcyan;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background: linear-gradient(maroon 20%, red 80%);
+}
+
+#myCarousel img {
+    height: 300px;
+    width: 321px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: lightcyan;
+    font-size: 20px;
+}
+
+body {
+    background-color: darkgoldenrod;
+}
